@@ -1,0 +1,61 @@
+<i class="fa-solid fa-plus"></i>
+<i class="fa-solid fa-pen"></i>
+<i class="fa-solid fa-trash"></i>
+<i class="fa-sharp fa-regular fa-ellipsis"></i>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!--FOR FUTURE REFERENCE ^
+                         |  -->
+                         <link rel="stylesheet" href="https://unicorns.iconscout.com/release/v4.0.0/css/line.css">
+
+
+
+
+
+                         <li class="note">
+                            <div class="details">
+                                <p>This is a title</p>
+                                <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat quisquam animi minus tenetur iste alias. Tempore nisi suscipit quod debitis modi excepturi totam illum eos, eius praesentium! Ut, nemo impedit.</span>
+                            </div>
+                            <div class="bottom-content">
+                                <span>April 3, 2022</span>
+                                <div class="settings">
+                                    <i class="uil uil-ellipsis-h"></i>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="note">
+                            <div class="details">
+                                <p>This is a title</p>
+                                <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat quisquam animi minus tenetur iste alias. Tempore nisi suscipit quod debitis modi excepturi totam illum eos, eius praesentium! Ut, nemo impedit.</span>
+                            </div>
+                            <div class="bottom-content">
+                                <span>April 3, 2022</span>
+                                <div class="settings">
+                                    <i class="uil uil-ellipsis-h"></i>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="note">
+                            <div class="details">
+                                <p>This is a title</p>
+                                <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat quisquam animi minus tenetur iste alias. Tempore nisi suscipit quod debitis modi excepturi totam illum eos, eius praesentium! Ut, nemo impedit.</span>
+                            </div>
+                            <div class="bottom-content">
+                                <span>April 3, 2022</span>
+                                <div class="settings">
+                                    <i class="uil uil-ellipsis-h"></i>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="note">
+                            <div class="details">
+                                <p>This is a title</p>
+                                <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat quisquam animi minus tenetur iste alias. Tempore nisi suscipit quod debitis modi excepturi totam illum eos, eius praesentium! Ut, nemo impedit.</span>
+                            </div>
+                            <div class="bottom-content">
+                                <span>April 3, 2022</span>
+                                <div class="settings">
+                                    <i class="uil uil-ellipsis-h"></i>
+                                </div>
+                            </div>
+                        </li>
